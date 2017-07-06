@@ -35,4 +35,9 @@ use it to open an HTML file in the browser.
 Or you could launch a web server directly from the command line using
 [http-server](https://github.com/indexzero/http-server) or [live-server](https://github.com/tapio/live-server). After the server starts, navigate to
 `http://localhost:8080/` in your browser and you'll be able to
-interact with working versions of all the example files in the book.  
+interact with working versions of all the example files in the book. 
+
+Hexi
+----
+
+The game engine with which the example were built is called [Hexi](https://github.com/kittykatattack/hexi). For simplicity, only the `hexi.min.js` file has been inluded in this repository. For access to Hexi's current source code and details on how to use it, visit: https://github.com/kittykatattack/hexi
