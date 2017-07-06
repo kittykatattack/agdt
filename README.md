@@ -1,7 +1,7 @@
 The Advanced Game Developer's Toolkit
 ============
 
-This is the code repository for the book [The Advanced Game Developer's Toolkit](http://www.apress.com/us/book/9781484210987.
+This is the code repository for the book [The Advanced Game Developer's Toolkit](http://www.apress.com/us/book/9781484210987).
 
 There are two ways to access the source code: by downloading the ZIP file or by
 cloning this repository.
@@ -9,13 +9,13 @@ cloning this repository.
 The ZIP file
 -----------
 
-Select the *Clone or download* buttons and choose *Download ZIP*.
+Select the *Clone or download* button and choose *Download ZIP*.
 
 Clone this repository
 ---------------------
 
-Alternatively, you can use git to clone this repository. (If you don't
-know how to use git [you can find out
+Alternatively, you can use Git to clone this repository. (If you don't
+know how to use Git [you can find out
 here](https://github.com/kittykatattack/learningGit).) 
 
 To clone this repository, run the following in the command line:
